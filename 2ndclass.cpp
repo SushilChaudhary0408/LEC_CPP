@@ -1,5 +1,5 @@
 #include <iostream>
- using namespace std;
+using namespace std;
 class Account {
 public:
 float salary = 60000;
@@ -18,3 +18,4 @@ cout<<"Salary: "<<p1.salary<<endl;
 cout<<"Salary: "<<a1.salary<<endl;
 cout<<"Bonus: "<<p1.bonus<<endl;
 return 0;
+}
