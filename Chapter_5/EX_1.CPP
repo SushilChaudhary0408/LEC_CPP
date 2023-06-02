@@ -5,7 +5,7 @@ class simple{
     int data2;
     
     public:
-    void setdata(int x,int y)
+    void getdata(int x,int y)
     {
         data1=x;
         data2=y;
