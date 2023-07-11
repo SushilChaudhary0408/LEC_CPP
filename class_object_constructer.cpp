@@ -19,9 +19,9 @@ class COMPLEX{
     }
 
     //PARAMETERIZED CONSTRUCTOR
-     COMPLEX(float x,float y){
-      real=x;
-      img=y;
+     COMPLEX(){
+        real=0;
+        img=0;
      
      }      
    
